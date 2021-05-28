@@ -1,0 +1,21 @@
+body{
+background-color:lightblue;
+text-align: center;
+}
+img{
+height: 500px;
+width:600px;  
+}
+.images{
+display: flex;
+justify-content: center;
+}
+.image1{
+margin-left: 20px;
+margin-right:20px;
+background-color: white;
+}
+h1{
+font: 30px;
+}
+
